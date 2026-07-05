@@ -1,0 +1,17 @@
+{
+  "name": "crypto-price-bot",
+  "version": "1.0.0",
+  "description": "Discord bot konversi crypto ke USD dan IDR via CoinGecko",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
